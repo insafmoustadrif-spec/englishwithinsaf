@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>English with Insaf | Learn English in Darija</title>
+
+  <meta name="description" content="Learn English with Insaf through simple explanations in Moroccan Darija, free lessons, exercises and downloadable PDFs.">
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f8f7f4;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    header {
+      background: white;
+      padding: 18px 7%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid #e5e5e5;
+    }
+
+    .logo {
+      font-size: 22px;
+      font-weight: bold;
+    }
+
+    nav a {
+      color: #222;
+      text-decoration: none;
+      margin-left: 18px;
+      font-size: 14px;
+    }
+
+    .hero {
+      text-align: center;
+      padding: 80px 20px 65px;
+      max-width: 850px;
+      margin: auto;
+    }
+
+    .hero h1 {
+      font-size: 48px;
+      margin-bottom: 15px;
+      line-height: 1.15;
+    }
+
+    .hero p {
+      font-size: 19px;
+      color: #555;
+      max-width: 650px;
+      margin: 0 auto 30px;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 14px 24px;
+      background: #222;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+
+    .darija {
+      margin-top: 18px;
+      font-size: 17px;
+      direction: rtl;
+    }
+
+    .section {
+      max-width: 1000px;
+      margin: auto;
+      padding: 55px 20px;
+    }
+
+    .section h2 {
+      font-size: 30px;
+      margin-bottom: 8px;
+    }
+
+    .section-intro {
+      color: #666;
+      margin-bottom: 30px;
+    }
+
+    .lesson-card {
+      background: white;
+      border-radius: 14px;
+      padding: 28px;
+      box-shadow: 0 3px 15px rgba(0,0,0,0.07);
+      max-width: 650px;
+    }
+
+    .tag {
+      font-size: 13px;
+      font-weight: bold;
+      text-transform: uppercase;
+      color: #666;
+    }
+
+    .lesson-card h3 {
+      font-size: 25px;
+      margin: 8px 0;
+    }
+
+    .lesson-card p {
+      color: #555;
+    }
+
+    .download {
+      display: inline-block;
+      margin-top: 12px;
+      padding: 12px 18px;
+      background: #222;
+      color: white;
+      text-decoration: none;
+      border-radius: 7px;
+    }
+
+    .coming {
+      margin-top: 20px;
+      font-size: 14px;
+      color: #777;
+    }
+
+    .about {
+      background: #eeeeea;
+    }
+
+    .about-inner {
+      max-width: 900px;
+      margin: auto;
+      padding: 55px 20px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 35px 20px;
+      font-size: 14px;
+      color: #777;
+    }
+
+    @media (max-width: 600px) {
+      .hero h1 {
+        font-size: 37px;
+      }
+
+      header {
+        display: block;
+        text-align: center;
+      }
+
+      nav {
+        margin-top: 10px;
+      }
+
+      nav a {
+        margin: 0 8px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <div class="logo">English with Insaf</div>
+
+  <nav>
+    <a href="#lessons">Lessons</a>
+    <a href="#about">About</a>
+  </nav>
+</header>
+
+
+<section class="hero">
+
+  <h1>Learn English without making it complicated.</h1>
+
+  <p>
+    Simple English lessons explained in Moroccan Darija,
+    with examples, exercises and free PDFs to help you practice.
+  </p>
+
+  <a class="button" href="#lessons">
+    Start Learning
+  </a>
+
+  <p class="darija">
+    تعلم الإنجليزية بشرح بسيط بالدارجة المغربية
+  </p>
+
+</section>
+
+
+<section class="section" id="lessons">
+
+  <h2>Free English Lessons</h2>
+
+  <p class="section-intro">
+    Watch the lesson, understand the grammar, then practice with the free exercises.
+  </p>
+
+
+  <div class="lesson-card">
+
+    <span class="tag">Grammar • Beginner</span>
+
+    <h3>Present Continuous</h3>
+
+    <p>
+      Learn how to talk about things happening now,
+      understand am / is / are + verb-ing,
+      make negative sentences and ask questions.
+    </p>
+
+    <p>
+      <strong>Free practice PDF included.</strong>
+    </p>
+
+    <!-- We will connect this button to your PDF next -->
+    <a class="download" href="present:continous.pdf.pdf">
+      Download Exercises
+    </a> 
+    <p lang="ar" dir="rtl" style="text-align: right;">بغيتي التصحيح؟ كتب ليا <bdi dir="ltr">“ANSWER KEY”</bdi> فالكومنتير ديال الفيديو فاليوتيوب، ولا صيفط ليا مساج فالفيسبوك ونصيفطو ليك.</p>
+
+    <p class="coming">
+      Video lesson coming soon.
+    </p>
+
+  </div>
+
+</section>
+
+
+<section class="about" id="about">
+
+  <div class="about-inner">
+
+    <h2>About English with Insaf</h2>
+
+    <p>
+      English with Insaf helps Moroccan learners understand
+      real English through straightforward explanations in Darija.
+      Lessons include grammar, vocabulary, speaking and practical English
+      you can actually use.
+    </p>
+
+  </div>
+
+</section>
+
+
+<footer>
+  © 2026 English with Insaf
+</footer>
+
+</body>
+</html>
